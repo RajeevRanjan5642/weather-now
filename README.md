@@ -17,9 +17,9 @@ The WeatherNow is a web application designed to provide real-time weather inform
 2. User Input : Users can enter a city name to get weather information of that city.
 3. Output : The app displays the weather data including temperature (in celcius), humidity, wind speed and a small weather description for the searched city.
 
-## 👁️ Preview :
-![output](https://github.com/RajeevRanjan5642/WeatherNow/blob/main/images/demo.png)
-
 ## 🔗 Deployment
 The web app is deployed at :<br>
 https://weather-now-puce.vercel.app/
+
+## 👁️ Preview :
+![output](https://github.com/RajeevRanjan5642/WeatherNow/blob/main/images/demo.png)
