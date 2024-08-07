@@ -1,4 +1,6 @@
-## WeatherNow : Your Go-To Weather Information Hub
+![banner](https://github.com/RajeevRanjan5642/WeatherNow/blob/main/images/banner.png)
+
+## WeatherNow
 
 ## 🔍 Overview
 The WeatherNow is a web application designed to provide real-time weather information for any location worldwide. Built using HTML, CSS, and JavaScript, this app fetches data from a weather API (OpenWeatherMap) to display current weather conditions, including temperature, humidity, wind speed, and a brief description of the weather.
