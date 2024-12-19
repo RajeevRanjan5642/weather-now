@@ -3,7 +3,7 @@
 ## WeatherNow
 
 ## 🔍 Overview
-The WeatherNow is a web application designed to provide real-time weather information for any location worldwide. Built using HTML, CSS, and JavaScript, this app fetches data from a weather API (OpenWeatherMap) to display current weather conditions, including temperature, humidity, wind speed, and a brief description of the weather.
+WeatherNow is a web application designed to provide real-time weather information for any location worldwide. Built using HTML, CSS, and JavaScript, this app fetches data from a weather API (OpenWeatherMap) to display current weather conditions, including temperature, humidity, wind speed, and a brief description of the weather.
 
 ## 🧩 Features
 - Real-Time Weather Data : Fetches and displays up-to-date weather information for the searched city.
